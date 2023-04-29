@@ -1,0 +1,41 @@
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\Numrical Project.exe.config
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\Numrical Project.exe
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\Numrical Project.pdb
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\obj\Debug\Numrical Project.csproj.AssemblyReference.cache
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\obj\Debug\Numrical Project.csproj.SuggestedBindingRedirects.cache
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\obj\Debug\Numrical_Project.Form1.resources
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\obj\Debug\Numrical_Project.Properties.Resources.resources
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\obj\Debug\Numrical Project.csproj.GenerateResource.cache
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\obj\Debug\Numrical Project.csproj.CoreCompileInputs.cache
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\obj\Debug\Numrical Project.exe
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\obj\Debug\Numrical Project.pdb
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\obj\Debug\Numrical_Project.Falseposition.resources
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\obj\Debug\Numrical_Project.Newton.resources
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\FParsec.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\FParsecCS.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\FSharp.Core.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\MathNet.Numerics.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\MathNet.Numerics.FSharp.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\MathNet.Symbolics.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\FParsec.xml
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\FParsecCS.xml
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\FSharp.Core.xml
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\MathNet.Numerics.xml
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\MathNet.Numerics.FSharp.xml
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\cs\FSharp.Core.resources.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\de\FSharp.Core.resources.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\en\FSharp.Core.resources.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\es\FSharp.Core.resources.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\fr\FSharp.Core.resources.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\it\FSharp.Core.resources.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\ja\FSharp.Core.resources.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\ko\FSharp.Core.resources.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\pl\FSharp.Core.resources.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\ru\FSharp.Core.resources.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\tr\FSharp.Core.resources.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\obj\Debug\Numrical_Project.Bisection.resources
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\obj\Debug\Numrical Project.csproj.CopyComplete
+D:\level three Cs\numrical prolect\Numrical Project\Numrical Project\obj\Debug\Numrical_Project.Fixedpoint.resources
